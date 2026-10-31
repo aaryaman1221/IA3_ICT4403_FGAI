@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+IA3_ICT4403_FGAI_Final.pdf
+data/spm_train.txt
+.venv/
